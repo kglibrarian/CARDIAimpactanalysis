@@ -1,4 +1,7 @@
-#Ignore these files 
+# Ignore these folders
+data/
+
+# Ignore these files 
 config.py
 
 # Byte-compiled / optimized / DLL files
